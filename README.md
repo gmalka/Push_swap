@@ -18,3 +18,25 @@ The program sorts an array of numbers passed as arguments using a specific set o
 | `rra` | Shift down all elements of stack a by 1 |
 | `rrb` | Shift down all elements of stack b by 1 |
 | `rrr` | rra and rrb at the same time |
+
+
+Example of input:
+```
+./push_swap 10 14 144 -2 77 56
+
+pb
+pb
+pb
+pb
+rb
+rb
+pb
+rb
+pa
+pa
+pa
+pa
+pa
+ra
+ra
+```
