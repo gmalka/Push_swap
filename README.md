@@ -5,8 +5,7 @@
 The program sorts an array of numbers using a specific set of commands, a limited number of iterations and using 2 stacks: a and b
 
 **available commands:**
-| LEFT | LEFT |
-|----------------|:---------:|
+|----------------|---------|
 | Command | Description |
 | `sa` | Swap the first 2 elements at the top of stack a |
 | `sb` | Swap the first 2 elements at the top of stack b |
