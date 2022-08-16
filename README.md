@@ -2,7 +2,7 @@
 42 school algorithm project
 
 # Description
-The program sorts an array of numbers using a specific set of commands, a limited number of iterations and using 2 stacks: a and b
+The program sorts an array of numbers passed as arguments using a specific set of commands, a limited number of iterations and using 2 stacks: a and b
 
 **available commands:**
 | Command | Description |
