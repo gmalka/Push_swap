@@ -6,7 +6,7 @@ The program sorts an array of numbers using a specific set of commands, a limite
 
 **available commands:**
 | Command | Description |
-|----------------|---------|
+|:----------------:|---------|
 | `sa` | Swap the first 2 elements at the top of stack a |
 | `sb` | Swap the first 2 elements at the top of stack b |
 | `ss` | sa and sb at the same time |
